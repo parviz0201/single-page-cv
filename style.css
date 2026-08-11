@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    border: 3px solid black;
+    width: 600px;
+    height: 800px;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+ol{
+    list-style: none;
+       padding: 15px 0  0 40px;
+}
+h1{
+    border-top: 3px solid black;
+    margin-left: 40px;
+    width: 450px;
+    padding-top: 20px;
+    margin-top: 50px;
+}
+h3{
+    color: rgb(119, 199, 119);
+    padding: 15px 0  0 40px;
+}
+.skill{
+    padding: 5px 0 12px 40px;
+}
+.blue{
+    color: rgb(37, 37, 229);
+    list-style: none;
+}
+p{
+    padding-left: 40px;
+}
+ul{
+     padding: 15px 0  0 40px;
+}
+.green{
+    color: rgb(119, 199, 119);;
+}
+.lolo{
+         padding: 15px 0  0 40px;
+}
